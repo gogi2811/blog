@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://myblog.gauravnlotekar.cloud/
 theme: pure
 title: Pure theme for Hugo
 copyright: CC BY 4.0 CN
