@@ -113,8 +113,7 @@ File can be found inside the repo:  [week_planner.json](https://github.com/gogi2
             "desc": "To do some household chores",
             "due": "",
             "idList": ""
-          },
-		  
+          }		  
         ]
       }},{"WEDNESDAY": {
         "CARDS": [
@@ -159,7 +158,7 @@ Run below cmd in your respective terminal
   - Windows > .\trelloPlanner\Scripts\activate
 
 - Once started execute the below cmd and the let the magic unfold 
-   > python main.py
+  - > python main.py
 
 
 ![3da178af3ef521d9294ccf09d53ba754125b492b.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1628406680412/JgbtkSP6x.gif)
