@@ -165,7 +165,7 @@ Run below cmd in your respective terminal
 
 Now sit back and relax and watch your life get organized by day in front of you.
 
-![chill-zen.gif](gif/workin trello planner.gif)
+![chill-zen.gif](https://github.com/gogi2811/trello-planner/tree/main/gif/tea-yoga.gif)
 
 ### Learnings & Benefits
  1. We saved __70%__ of our time that would have gone if done manually.
