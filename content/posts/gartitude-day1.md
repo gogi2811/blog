@@ -1,6 +1,6 @@
 +++
 author = "Gaurav Lotekar"
-title = "Gratitude Day 1"
+title = "Day 1"
 date = "2022-03-06"
 description = "Sort of Journal to put the things I am grateful for on a daily basis"
 tags = [
@@ -11,7 +11,7 @@ tags = [
 ]
 +++
 
-# 
+# I am Grateful
 
 Every day, I have this never-ending thought process that reminds me I am not doing well in terms of health, time, career relationships, responsibilities and the list goes on and on.
 I keep scrolling through social media to furthermore deteriorate my state of mind and which in turn results in the feeling of guilt, low self-esteem.
