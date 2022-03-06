@@ -13,7 +13,7 @@ tags = [
 
 # I am Grateful
 
-Every day, I have this never-ending thought process that reminds me I am not doing well in terms of health, time, career relationships, responsibilities and the list goes on and on.
+Every day, I have this never-ending thought process that reminds me I am not doing well in terms of health, time, career, relationships, responsibilities and the list goes on and on.
 I keep scrolling through social media to furthermore deteriorate my state of mind and which in turn results in the feeling of guilt, low self-esteem.
 
     - My Mind works against me, not sure if that's the way it's supposed to be
